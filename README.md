@@ -1,6 +1,6 @@
-# Ford Otosan Internship Homework 1
+# Ford Otosan Internship Homework 2
 
-Mert Yağmur's submission for the first homework of Geleceğin Tasarımcıları Internship Program
+Mert Yağmur's submission for the second homework of Geleceğin Tasarımcıları Internship Program
 
 
 ## Documentation
