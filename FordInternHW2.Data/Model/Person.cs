@@ -2,7 +2,7 @@
 
 namespace FordInternHW2.Data.Model
 {
-    public class Person
+    public class Person: BaseModel
     {
         public string AccountId { get; set; }
         public string FirstName { get; set; }

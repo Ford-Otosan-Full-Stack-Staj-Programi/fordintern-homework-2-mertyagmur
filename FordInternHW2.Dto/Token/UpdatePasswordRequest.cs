@@ -11,7 +11,7 @@ namespace FordInternHW2.Dto.Token
     public class UpdatePasswordRequest
     {
         [Required]
-        [PasswordAttribute]
+        //[PasswordAttribute]
         public string OldPassword { get; set; }
 
         [Required]

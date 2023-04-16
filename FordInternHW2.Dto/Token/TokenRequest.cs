@@ -18,7 +18,7 @@ namespace FordInternHW2.Dto.Token
         public string UserName { get; set; }
 
         [Required]
-        [PasswordAttribute]
+        //[PasswordAttribute]
         public string Password { get; set; }
     }
 }
